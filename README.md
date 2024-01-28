@@ -1,8 +1,15 @@
 ### 안녕하세요, Hello 👋, I'm Sin-Kang,
 An aspiring developer aiming for greatness!
-<div align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinny/)](https://www.linkedin.com/in/sinny/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jlc488@duck.com)](mailto:jlc488@duck.com)
+<div id="badges" align="center">
+<a href="https://www.linkedin.com/in/sinny/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/jlc488" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:jlc488@duck.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 </div>
 ## 🔭 Currently Working On
 - Finance Project
