@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Sin-Kang,
 <div align="center">
-
- ![Alt text](.github/images/sinny.png)
+<img src=".github/images/sinny.png" alt="Alt text" width="100" height="100">
+</div>
+<div align="center">
 An aspiring developer aiming for greatness!
-
 </div>
 
 ## 🔭 Currently Working On
