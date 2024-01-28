@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sin-Kang,
+### 안녕하세요, Hello 👋, I'm Sin-Kang,
 An aspiring developer aiming for greatness!
 
 ## 🔭 Currently Working On
