@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sin-Kang,
 <div align="center">
-<img src=".github/images/sinny.png" alt="Alt text" width="100" height="100">
+<img src=".github/images/sinny.png" alt="Alt text" width="70%" height="70%">
 </div>
 <div align="center">
 An aspiring developer aiming for greatness!
