@@ -11,6 +11,8 @@ An aspiring developer aiming for greatness!
 <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </div>
+<img src="https://komarev.com/ghpvc/?jlc488&style=flat-square&color=blue" alt=""/>
+
 ## 🔭 Currently Working On
 - Finance Project
 
