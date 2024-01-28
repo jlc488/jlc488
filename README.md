@@ -1,6 +1,6 @@
-### 안녕하세요, Hello 👋, I'm Sin-Kang,
-An aspiring developer aiming for greatness!
-<div id="badges" align="center">
+### 👋 안녕하세요, Hello, I'm Sin-Kang,
+#### An aspiring developer aiming for greatness!!!!
+<div id="badges">
 <a href="https://www.linkedin.com/in/sinny/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -11,7 +11,8 @@ An aspiring developer aiming for greatness!
 <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </div>
-<img src="https://komarev.com/ghpvc/?jlc488&style=flat-square&color=blue" alt=""/>
+![](https://komarev.com/ghpvc/?jlc488&color=brightgreen)
+
 
 ## 🔭 Currently Working On
 - Finance Project
