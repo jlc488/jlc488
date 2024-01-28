@@ -1,6 +1,6 @@
 ### 👋 안녕하세요, Hello, I'm Sin-Kang,
 #### An aspiring developer aiming for greatness!!!!
-<div id="badges">
+<div id="badges" >
 <a href="https://www.linkedin.com/in/sinny/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -12,7 +12,7 @@
 </a>
 <a href="https://github.com/jlc488" target="_blank">
 
-![](https://komarev.com/ghpvc/?username=jlc488&color=brightgreen&style=for-the-badge&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=jlc488&color=brightgreen&style=flat&abbreviated=true)
 
 </a>
 </div>
