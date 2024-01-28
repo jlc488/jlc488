@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </div>
-![](https://komarev.com/ghpvc/?jlc488&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=jlc488&color=brightgreen&style=for-the-badge)
 
 
 ## 🔭 Currently Working On
