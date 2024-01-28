@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## Tech Stack
+<img src="https://img.shields.io/badge/JAVA-#F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp
 <!--
 **jlc488/jlc488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
