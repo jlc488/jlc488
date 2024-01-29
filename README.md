@@ -17,12 +17,6 @@
 </a>
 </div>
 
-- 🔭 Currently Working On Finance Project
-
-
-- 🌱 Currently Learning => Go, Rust, AI
-
-
 ## 💻 Tech Stacks & Interests
 <div>
 	<table>
@@ -118,6 +112,16 @@
 		</tr>
 	</table>
 </div>
+
+
+## 🔭 Currently Working
+- Finance Project
+
+
+## 🌱 Currently Learning
+- Go
+- Rust
+- AI
 
 
 
