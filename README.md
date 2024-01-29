@@ -17,14 +17,10 @@
 </a>
 </div>
 
-## 🔭 Currently Working On
-- Finance Project
+- 🔭 Currently Working On Finance Project
 
 
-## 🌱 Currently Learning
-- Go
-- Rust
-- AI
+- 🌱 Currently Learning => Go, Rust, AI
 
 
 ## 💻 Tech Stacks & Interests
