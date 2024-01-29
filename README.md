@@ -2,13 +2,13 @@
 #### An aspiring developer aiming for greatness!!!!
 <div id="badges" >
 <a href="https://www.linkedin.com/in/sinny/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img height="24" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/jlc488" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+<img height="24" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 <a href="mailto:jlc488@duck.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img height="24" src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://github.com/jlc488" target="_blank">
 
