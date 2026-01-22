@@ -115,13 +115,12 @@
 
 
 ## 🔭 Currently Working
-- Finance Project
+- M1, platform
 
 
 ## 🌱 Currently Learning
-- Go
-- Rust
-- AI
+- React Native
+- Vision AI
 
 
 
