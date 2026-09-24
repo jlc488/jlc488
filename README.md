@@ -21,6 +21,9 @@ I ship production SaaS first, then open-source the parts worth sharing.
   businesses in India. Preparing for launch.
 - **Chatur-AI** — voice AI for Indian call centers, built with an operating partner.
   In development.
+- **SphereLinq** — an Agentic OS for the whole company: it connects team and
+  company knowledge, and applies shared rules and harnesses to every AI agent people
+  work with. In design.
 
 We also build and run the operations systems of two dental-logistics companies —
 EDS Logistics and FM Dental Service.
